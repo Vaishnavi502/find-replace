@@ -8,9 +8,9 @@
   - Replacement of non-hyphenated words, use of en-dash or em-dash for certain commonly used phrases is possible through this
 
 ### About find.txt:
-> A new phrase should be of the form: {old word(s)}:{new word(s)}
-  > Note: There shouldn't be any space after the colon unless you want an extra space upon replacement
-> All occurrences of the words will be replaced in the word doc
+* A new phrase should be of the form: {old word(s)}:{new word(s)}
+  * Note: There shouldn't be any space after the colon unless you want an extra space upon replacement
+* All occurrences of the words will be replaced in the word doc
 
 ### Steps to follow before running findrep.exe:
 1. Open findrep.ps1

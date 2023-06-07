@@ -18,5 +18,10 @@
     ```powershell
     $words=Get-Content C:\Users\DELL\Desktop\find.txt
     ```
+   ![image](https://github.com/Vaishnavi502/find-replace/assets/68768878/185451d8-e51e-4aab-8be9-0161915fa4f8)
    and replace the path with path to your find.txt
-![image](https://github.com/Vaishnavi502/find-replace/assets/68768878/185451d8-e51e-4aab-8be9-0161915fa4f8)
+    ```powershell
+    $words=Get-Content <your path>\find.txt
+    ```
+3. Now double-click findrep.exe and you will be asked the file name of the MS Word doc that you want to modify:
+   

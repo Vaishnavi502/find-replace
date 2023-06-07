@@ -1,0 +1,5 @@
+﻿color:colour
+short term:short-term
+March-May:March–May
+short—term:short-term
+March—May:March–May

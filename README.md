@@ -15,8 +15,8 @@
 ### Steps to follow before running findrep.exe:
 1. Open findrep.ps1
 2. Find the line
-    '''
+    ```powershell
     $words=Get-Content C:\Users\DELL\Desktop\find.txt
-    '''
+    ```
    and replace the path with path to your find.txt
 ![image](https://github.com/Vaishnavi502/find-replace/assets/68768878/185451d8-e51e-4aab-8be9-0161915fa4f8)
